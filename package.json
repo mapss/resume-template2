@@ -1,0 +1,17 @@
+{
+  "name": "resume-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Trey Piepmeier",
+  "license": "SEE LICENSE IN `LICENSE`",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "sass": "^1.32.8",
+    "stylelint-config-standard": "^22.0.0"
+  }
+}
